@@ -25,7 +25,7 @@ I have performed these activities only on systems and networks where I had secur
  
 | | |
 |---|---|
-| **Client / Target 1** | `networkwalks.com` (assigned lab target, permission granted by the course) |
+| **Client / Target 1** | `networkwalks.com` (assigned lab target, permission granted by the course) [`Permission Letter`](./W2-PM-SamplePermissionLetterv1.pdf)|
 | **Client / Target 2** | My own home LAN (`192.168.0.0/24`) |
 | **Permission secured?** | Yes, for both targets |
 
@@ -102,26 +102,23 @@ The reconnaissance exercise demonstrated how different tools reveal different la
 
 ## 📸 Screenshots & Evidence
 
-
-<strong>W2-PM1 — Footprinting & Reconnaissance</strong>
-
 ### WHOIS
-![WHOIS](/01-whois.png)
+![WHOIS](/01_whois.PNG)
 
 ### WhatWeb
-![WhatWeb](W2-PM1-Footprinting-Reconnaissance/screenshots/02-whatweb.png)
+![WhatWeb](/02_whatweb.PNG)
 
 ### Nslookup
-![Nslookup](W2-PM1-Footprinting-Reconnaissance/screenshots/03-nslookup.png)
+![Nslookup](/03_nslookup.PNG)
 
 ### Curl
-![Curl](W2-PM1-Footprinting-Reconnaissance/screenshots/04-curl.png)
+![Curl](/04_curl_headers.PNG)
 
 ### Wafw00f
-![Wafw00f](W2-PM1-Footprinting-Reconnaissance/screenshots/05-wafw00f.png)
+![Wafw00f](/05_wafw00f.PNG)
 
 ### DNSRecon
-![DNSRecon](W2-PM1-Footprinting-Reconnaissance/screenshots/06-dnsrecon.png)
+![DNSRecon](/06_dnsrecon.PNG)
 
 
 ---
