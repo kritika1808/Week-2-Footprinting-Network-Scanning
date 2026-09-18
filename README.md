@@ -25,7 +25,7 @@ I have performed these activities only on systems and networks where I had secur
  
 | | |
 |---|---|
-| **Client / Target 1** | `networkwalks.com` (assigned lab target, permission granted by the course) [`Permission Letter`](./W2-PM-SamplePermissionLetterv1.pdf)|
+| **Client / Target 1** | `networkwalks.com` (assigned lab target, permission granted by the course)**[ Permission letter ](./W2-PM-SamplePermissionLetterv1.pdf)** |
 | **Client / Target 2** | My own home LAN (`192.168.0.0/24`) |
 | **Permission secured?** | Yes, for both targets |
 
@@ -182,7 +182,7 @@ The report notes that `192.168.0.100` and `192.168.0.101` use randomized privacy
 
 After the host-discovery scan, the Zenmap **Topology** tab was reviewed and the network topology was exported as:
 
-[`topology.pdf`](./topology.pdf)
+**[📄 View topology.pdf](./topology.pdf)**
 
 The topology showed the discovered hosts around the local machine.
 
@@ -292,9 +292,9 @@ These two modules demonstrate two related stages of a penetration-testing workfl
 The complete reports for the individual modules are included in this repository:
 
 
-1. [`W2-PM1_Footprinting_Reconnaissance_Report.pdf`](./W2-PM1_Footprinting_Reconnaissance_Report.pdf)
+**[`W2-PM1_Footprinting_Reconnaissance_Report.pdf`](./W2-PM1_Footprinting_Reconnaissance_Report.pdf)**
 
-2. [`W2-PM5_Zenmap_Network_Scanning_Report.pdf`](./W2-PM5_Zenmap_Network_Scanning_Report.pdf)
+**[`W2-PM5_Zenmap_Network_Scanning_Report.pdf`](./W2-PM5_Zenmap_Network_Scanning_Report.pdf)**
 
 
 ---
