@@ -100,6 +100,30 @@ The reconnaissance exercise demonstrated how different tools reveal different la
 9. Keep the WAF tuned and monitored.
 10. Perform reconnaissance only with authorization.
 
+## 📸 Screenshots & Evidence
+
+<details>
+<summary><strong>W2-PM1 — Footprinting & Reconnaissance</strong></summary>
+
+### WHOIS
+![WHOIS](/01-whois.png)
+
+### WhatWeb
+![WhatWeb](W2-PM1-Footprinting-Reconnaissance/screenshots/02-whatweb.png)
+
+### Nslookup
+![Nslookup](W2-PM1-Footprinting-Reconnaissance/screenshots/03-nslookup.png)
+
+### Curl
+![Curl](W2-PM1-Footprinting-Reconnaissance/screenshots/04-curl.png)
+
+### Wafw00f
+![Wafw00f](W2-PM1-Footprinting-Reconnaissance/screenshots/05-wafw00f.png)
+
+### DNSRecon
+![DNSRecon](W2-PM1-Footprinting-Reconnaissance/screenshots/06-dnsrecon.png)
+
+
 ---
 
 # 🖥️ W2-PM5 — Network Scanning with Zenmap
@@ -260,10 +284,11 @@ These two modules demonstrate two related stages of a penetration-testing workfl
 
 The complete reports for the individual modules are included in this repository:
 
-```text
-W2-PM1_Footprinting_Reconnaissance_Report.docx
-W2-PM5_Zenmap_Network_Scanning_Report.docx
-```
+
+1. [`W2-PM1_Footprinting_Reconnaissance_Report.pdf`](./W2-PM1_Footprinting_Reconnaissance_Report.pdf)
+
+2. [`W2-PM5_Zenmap_Network_Scanning_Report.pdf`](./W2-PM5_Zenmap_Network_Scanning_Report.pdf)
+
 
 ---
 
