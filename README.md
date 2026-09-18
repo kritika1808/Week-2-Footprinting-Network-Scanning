@@ -102,8 +102,8 @@ The reconnaissance exercise demonstrated how different tools reveal different la
 
 ## 📸 Screenshots & Evidence
 
-<details>
-<summary><strong>W2-PM1 — Footprinting & Reconnaissance</strong></summary>
+
+<strong>W2-PM1 — Footprinting & Reconnaissance</strong>
 
 ### WHOIS
 ![WHOIS](/01-whois.png)
@@ -185,9 +185,7 @@ The report notes that `192.168.0.100` and `192.168.0.101` use randomized privacy
 
 After the host-discovery scan, the Zenmap **Topology** tab was reviewed and the network topology was exported as:
 
-```text
-topology.pdf
-```
+[`topology.pdf`](./topology.pdf)
 
 The topology showed the discovered hosts around the local machine.
 
