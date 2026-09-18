@@ -215,6 +215,18 @@ The exercise also demonstrated:
 10. Keep network topology documentation updated.
 11. Scan only networks for which authorization exists.
 
+## 📸 Screenshots & Evidence
+
+![Download & installNmap](/nmap_download.PNG) 
+
+![LAN Subnet](/lan_subnet.PNG)
+
+![Ping_scan](/ping_scan.PNG)
+
+![Save_topology](/Save_topology.PNG)
+
+
+
 ---
 
 # 🔗 Combined Week 2 Learning
